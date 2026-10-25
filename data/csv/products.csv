@@ -1,0 +1,61 @@
+product_id,name,category,description,price
+1,Wireless Earbuds,Electronics,Wireless Earbuds — electronics range,76.99
+2,Smartwatch,Electronics,Smartwatch — electronics range,60.99
+3,Bluetooth Speaker,Electronics,Bluetooth Speaker — electronics range,33.99
+4,Power Bank 20000mAh,Electronics,Power Bank 20000mAh — electronics range,159.99
+5,Mechanical Keyboard,Electronics,Mechanical Keyboard — electronics range,39.99
+6,Gaming Mouse,Electronics,Gaming Mouse — electronics range,79.99
+7,"27"" Monitor",Electronics,"27"" Monitor — electronics range",38.99
+8,USB-C Hub,Electronics,USB-C Hub — electronics range,118.99
+9,Action Camera,Electronics,Action Camera — electronics range,42.99
+10,E-Reader,Electronics,E-Reader — electronics range,221.99
+11,Coffee Grinder,Home & Kitchen,Coffee Grinder — home & kitchen range,13.99
+12,Air Fryer,Home & Kitchen,Air Fryer — home & kitchen range,36.99
+13,Knife Set,Home & Kitchen,Knife Set — home & kitchen range,100.99
+14,Bed Linen Set,Home & Kitchen,Bed Linen Set — home & kitchen range,22.99
+15,Desk Lamp,Home & Kitchen,Desk Lamp — home & kitchen range,115.99
+16,Electric Kettle,Home & Kitchen,Electric Kettle — home & kitchen range,23.99
+17,Storage Boxes (3 pcs),Home & Kitchen,Storage Boxes (3 pcs) — home & kitchen range,56.99
+18,Cast Iron Pan,Home & Kitchen,Cast Iron Pan — home & kitchen range,38.99
+19,Blender,Home & Kitchen,Blender — home & kitchen range,29.99
+20,Scented Candle Set,Home & Kitchen,Scented Candle Set — home & kitchen range,45.99
+21,Hoodie,Clothing,Hoodie — clothing range,46.99
+22,Denim Jacket,Clothing,Denim Jacket — clothing range,62.99
+23,Running T-shirt,Clothing,Running T-shirt — clothing range,45.99
+24,Wool Sweater,Clothing,Wool Sweater — clothing range,53.99
+25,Chino Pants,Clothing,Chino Pants — clothing range,14.99
+26,Winter Parka,Clothing,Winter Parka — clothing range,41.99
+27,Sneakers,Clothing,Sneakers — clothing range,26.99
+28,Baseball Cap,Clothing,Baseball Cap — clothing range,13.99
+29,Leather Belt,Clothing,Leather Belt — clothing range,27.99
+30,Rain Jacket,Clothing,Rain Jacket — clothing range,125.99
+31,Yoga Mat,Sports,Yoga Mat — sports range,51.99
+32,Dumbbell Set,Sports,Dumbbell Set — sports range,53.99
+33,Resistance Bands,Sports,Resistance Bands — sports range,54.99
+34,Cycling Gloves,Sports,Cycling Gloves — sports range,27.99
+35,Water Bottle,Sports,Water Bottle — sports range,12.99
+36,Tennis Racket,Sports,Tennis Racket — sports range,118.99
+37,Foam Roller,Sports,Foam Roller — sports range,16.99
+38,Jump Rope,Sports,Jump Rope — sports range,67.99
+39,Hiking Backpack,Sports,Hiking Backpack — sports range,55.99
+40,Fitness Tracker Strap,Sports,Fitness Tracker Strap — sports range,24.99
+41,Data Science Handbook,Books,Data Science Handbook — books range,30.99
+42,SQL Pocket Guide,Books,SQL Pocket Guide — books range,19.99
+43,Mystery Novel,Books,Mystery Novel — books range,25.99
+44,Cookbook,Books,Cookbook — books range,41.99
+45,History of Kyiv,Books,History of Kyiv — books range,8.99
+46,Productivity Guide,Books,Productivity Guide — books range,12.99
+47,Kids Picture Book,Books,Kids Picture Book — books range,9.99
+48,Sci-Fi Trilogy,Books,Sci-Fi Trilogy — books range,13.99
+49,Language Course Book,Books,Language Course Book — books range,32.99
+50,Art Album,Books,Art Album — books range,20.99
+51,Face Serum,Beauty,Face Serum — beauty range,40.99
+52,Hand Cream,Beauty,Hand Cream — beauty range,49.99
+53,Shampoo & Conditioner,Beauty,Shampoo & Conditioner — beauty range,6.99
+54,Perfume 50ml,Beauty,Perfume 50ml — beauty range,44.99
+55,Lip Balm Set,Beauty,Lip Balm Set — beauty range,20.99
+56,Hair Dryer,Beauty,Hair Dryer — beauty range,42.99
+57,Sunscreen SPF50,Beauty,Sunscreen SPF50 — beauty range,9.99
+58,Body Lotion,Beauty,Body Lotion — beauty range,15.99
+59,Makeup Brush Set,Beauty,Makeup Brush Set — beauty range,9.99
+60,Beard Care Kit,Beauty,Beard Care Kit — beauty range,45.99

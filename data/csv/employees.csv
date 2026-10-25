@@ -1,0 +1,13 @@
+employee_id,full_name,position,email,phone,department
+1,Bohdan Bilyk,Senior Sales Manager,bohdan.bilyk1@abc-corp.com,+380984438087,Online Sales
+2,Valeriia Tkachuk,Sales Manager,valeriia.tkachuk2@abc-corp.com,+380818535296,Online Sales
+3,Tetiana Bilyk,Sales Manager,tetiana.bilyk3@abc-corp.com,+380681695025,Online Sales
+4,Bohdan Lysenko,Sales Manager,bohdan.lysenko4@abc-corp.com,+380739275997,Online Sales
+5,Valeriia Hrytsenko,Sales Manager,valeriia.hrytsenko5@abc-corp.com,+380813572424,Online Sales
+6,Olena Marchenko,Sales Manager,olena.marchenko6@abc-corp.com,+380723071975,Online Sales
+7,Yevhen Melnyk,Sales Manager,yevhen.melnyk7@abc-corp.com,+380732380927,Online Sales
+8,Anna Bilyk,Senior Sales Manager,anna.bilyk8@abc-corp.com,+380824815062,Retail Sales
+9,Mariia Shevchenko,Sales Manager,mariia.shevchenko9@abc-corp.com,+380935424277,Retail Sales
+10,Nataliia Oliinyk,Sales Manager,nataliia.oliinyk10@abc-corp.com,+380522904546,Retail Sales
+11,Kateryna Boiko,Sales Manager,kateryna.boiko11@abc-corp.com,+380576211184,Retail Sales
+12,Dmytro Ponomarenko,Sales Manager,dmytro.ponomarenko12@abc-corp.com,+380778992579,Retail Sales

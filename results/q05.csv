@@ -1,0 +1,19 @@
+category,rank_in_category,name,units,revenue
+Beauty,1,Face Serum,255,10452
+Beauty,2,Perfume 50ml,190,8548
+Beauty,3,Hair Dryer,198,8512
+Books,1,Language Course Book,199,6565
+Books,2,Art Album,209,4387
+Books,3,Mystery Novel,165,4288
+Clothing,1,Rain Jacket,210,26458
+Clothing,2,Denim Jacket,296,18645
+Clothing,3,Wool Sweater,242,13066
+Electronics,1,USB-C Hub,241,28677
+Electronics,2,Gaming Mouse,338,27037
+Electronics,3,E-Reader,120,26639
+Home & Kitchen,1,Desk Lamp,180,20878
+Home & Kitchen,2,Knife Set,184,18582
+Home & Kitchen,3,Air Fryer,405,14981
+Sports,1,Tennis Racket,123,14636
+Sports,2,Yoga Mat,166,8630
+Sports,3,Resistance Bands,135,7424

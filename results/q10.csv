@@ -1,0 +1,13 @@
+department,full_name,orders,revenue,avg_order_value,rank_in_dept,dept_share_pct
+Online Sales,Bohdan Bilyk,1032,90095,87.30,1,23.7
+Online Sales,Olena Marchenko,645,59345,92.01,2,15.6
+Online Sales,Valeriia Tkachuk,649,55328,85.25,3,14.6
+Online Sales,Tetiana Bilyk,596,50210,84.25,4,13.2
+Online Sales,Yevhen Melnyk,569,47125,82.82,5,12.4
+Online Sales,Valeriia Hrytsenko,514,44214,86.02,6,11.7
+Online Sales,Bohdan Lysenko,371,33136,89.32,7,8.7
+Retail Sales,Nataliia Oliinyk,744,64760,87.04,1,30.4
+Retail Sales,Kateryna Boiko,575,51343,89.29,2,24.1
+Retail Sales,Mariia Shevchenko,565,47769,84.55,3,22.4
+Retail Sales,Dmytro Ponomarenko,396,34506,87.14,4,16.2
+Retail Sales,Anna Bilyk,171,14580,85.27,5,6.8

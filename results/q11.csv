@@ -1,0 +1,11 @@
+name,category,on_hand,units_sold_90d,days_of_cover,last_delivery,status
+Denim Jacket,Clothing,2,57,3,2026-03-21,REORDER NOW
+Sci-Fi Trilogy,Books,2,34,5,2026-03-27,REORDER NOW
+Cycling Gloves,Sports,5,26,17,2026-02-20,Reorder soon
+Storage Boxes (3 pcs),Home & Kitchen,9,24,34,2026-03-19,OK
+Baseball Cap,Clothing,54,106,46,2026-06-02,OK
+Mechanical Keyboard,Electronics,54,102,48,2026-06-16,OK
+Shampoo & Conditioner,Beauty,60,112,48,2026-06-03,OK
+"27"" Monitor",Electronics,54,99,49,2026-06-11,OK
+Air Fryer,Home & Kitchen,47,87,49,2026-05-27,OK
+Cast Iron Pan,Home & Kitchen,34,58,53,2026-05-27,OK

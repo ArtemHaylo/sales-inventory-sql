@@ -1,0 +1,2 @@
+orders,customers,revenue,avg_order_value,orders_per_customer,refunded,refund_rate_pct,orders_with_refund_pct
+6827,2600,592413,86.78,2.63,31123,5.3,7.9

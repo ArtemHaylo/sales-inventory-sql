@@ -1,0 +1,8 @@
+segment,customers,customers_pct,revenue_pct,avg_recency_days,avg_orders,avg_spend
+1. Champions,344,13.2,42.3,45,8.2,728
+"2. Loyal, cooling down",174,6.7,14.7,238,6.0,500
+3. Promising,262,10.1,8.8,57,2.3,199
+4. New customers,434,16.7,6.1,63,1.0,84
+5. At risk,248,9.5,8.4,350,2.3,201
+6. Lost one-time buyers,709,27.3,10.3,377,1.0,86
+7. Need attention,429,16.5,9.4,188,1.5,129

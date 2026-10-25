@@ -1,0 +1,6 @@
+check_name,problems
+orders whose total_amount differs from items × price,0
+orders without a payment,0
+payments not equal to the order total,0
+orders without items,0
+negative stock records,0

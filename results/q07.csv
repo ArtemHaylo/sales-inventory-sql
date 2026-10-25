@@ -1,0 +1,5 @@
+customer_group,customers,customers_pct,revenue,revenue_pct,revenue_per_customer
+1 order,1409,54.2,121011,20.4,86
+2 orders,466,17.9,83143,14.0,178
+3-5 orders,446,17.2,143234,24.2,321
+6+ orders,279,10.7,245025,41.4,878
